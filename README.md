@@ -17,6 +17,6 @@ Skills: Responsive web design, UI/UX principles, mobile-first approach, and obje
 
 ## Let's Connect!
 
-Here is my [LinkedIn]() profile
+Here is my [LinkedIn](https://www.linkedin.com/in/elizabeth-okon-269427348) profile
 
 Feel free to explore my repositories, check out my projects and don't hesitate to reach out. Happy coding! 🚀
